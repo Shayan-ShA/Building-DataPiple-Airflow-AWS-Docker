@@ -28,7 +28,11 @@ Fill in the .env file with ARN and the Redshift Cluster endpoint
 
 
 
-![This](https://www.youtube.com/watch?v=aTaytcxy2Ck) 
+
+
+![This](https://youtu.be/aTaytcxy2Ck)
+
+
 
 is a youtube link to setup airflow on your local computer using the airflow folder in this repository.
 
