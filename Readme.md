@@ -27,7 +27,12 @@ Fill in the .env file with ARN and the Redshift Cluster endpoint
 
 
 
+
 ![This](https://www.youtube.com/watch?v=aTaytcxy2Ck) is a youtube link to setup airflow on your local computer using the airflow folder in this repository.
+
+
+
+
 
 Save your AWS Redshift cluster information in Airflow connections
 Turn on udacity_s3_redshift_dag DAG on airflow UI interface and run it to see the results.
